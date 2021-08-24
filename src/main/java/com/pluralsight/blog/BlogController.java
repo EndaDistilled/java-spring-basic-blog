@@ -13,11 +13,6 @@ public class BlogController {
         map.put("title","Blog Post 1");
         return "home";
     }
-
-    public void PostRepository (PostRepository)
-        {
-            PostRepository = postRepository;
-
-        }
+    
 
 }
